@@ -1,0 +1,3 @@
+C:/Users/t-garne/Documents/games_in_cpp/github_classroom_practice/cmake-build-debug/CMakeFiles/github_classroom_practice.dir
+C:/Users/t-garne/Documents/games_in_cpp/github_classroom_practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/t-garne/Documents/games_in_cpp/github_classroom_practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

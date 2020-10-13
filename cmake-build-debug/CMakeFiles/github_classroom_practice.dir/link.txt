@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\github_classroom_practice.dir/objects.a
+C:\mingw32\bin\ar.exe cr CMakeFiles\github_classroom_practice.dir/objects.a @CMakeFiles\github_classroom_practice.dir\objects1.rsp
+C:\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\github_classroom_practice.dir/objects.a -Wl,--no-whole-archive  -o github_classroom_practice.exe -Wl,--out-implib,libgithub_classroom_practice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\github_classroom_practice.dir\linklibs.rsp
